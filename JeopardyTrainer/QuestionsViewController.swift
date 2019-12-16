@@ -9,7 +9,7 @@
 import UIKit
 
 class QuestionsViewController: UIViewController {
-    
+
     @IBOutlet weak var categoryLabel: UILabel!
     @IBOutlet weak var questionLabel: UILabel!
     @IBOutlet weak var showAnswerButton: UIButton!
